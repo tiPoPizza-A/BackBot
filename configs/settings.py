@@ -1,4 +1,4 @@
-token = ''
+token = '7181925464:AAHnbx3HSCC35bE-GL-R0Svxyqh6QiWfXTY'
 dir = r'C:\\'
 version = '3.3'
 admins_id = []
